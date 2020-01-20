@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.eclipse.acme.feature_1.0.0.201904021238.jar" id="org.eclipse.acme.feature" version="1.0.0.201904021238"/>
+   <feature url="features/org.eclipse.acme.feature_1.0.3.jar" id="org.eclipse.acme.feature" version="1.0.3" os="linux,macosx,win32"/>
+   <category-def name="org.eclipse.acme" label="Assurance Case Management Environment"/>
 </site>
